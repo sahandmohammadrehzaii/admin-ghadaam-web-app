@@ -1,5 +1,5 @@
 ---
-title: "Ghadaam Release 2 has arrived"
+title: "Ghadaam Release 2.0 has arrived"
 datePublished: Thu May 22 2025 12:15:14 GMT+0000 (Coordinated Universal Time)
 cuid: cmazc4hq3000a09l44z3e4a4b
 slug: ghadaam-release-2-has-arrived
