@@ -1,5 +1,5 @@
 ---
-title: "Image to ASCII"
+title: "Image to ASCII !!"
 datePublished: Fri May 30 2025 21:48:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmbbc5523000009k42uepbzri
 slug: image-to-ascii
