@@ -6,7 +6,7 @@ slug: image-to-ascii
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748641698164/bc20ea16-738a-45d6-8881-bc65d670b6ea.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749137693710/39a0b712-8c61-43f0-86ae-96e4d373d6f3.png align="center")
 
 About This application is an ASCII Art Converter that allows users to transform images into ASCII art representations. Users can upload images either by dragging and dropping them into the application or by using a file input. The app supports various character sets for ASCII art, including standard, detailed, block characters, and minimal options.
 
