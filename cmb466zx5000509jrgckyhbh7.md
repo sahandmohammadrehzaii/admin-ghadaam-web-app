@@ -8,6 +8,72 @@ slug: ghadaam-akador-published
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748208263041/d4fc1195-1037-4556-a1fe-d565a6d61da6.png align="center")
 
-Most sites use the query feature to search fields, but now a new feature called Acador has been released by the Ghadaam development team. Usually, there is confusion and loss of order in the discussion of the project router and addressing on the latest component of NextJS and React projects, but with this package, the Acador package, no data is searched and filtered in the form of a query and it refers to the depths of the server or static data. It redirects the data to the user in the form of a cancel. For more information, see the page below.
+## 🔎 Introducing **Acador** – A New Approach to Intelligent Data Routing and Retrieval
 
-### [ghadaam.ir/Package/g-aka](https://ghadaam.ir/Package/g-aka)
+**Developed by the Ghadaam Development Team**
+
+In traditional web development, especially in frameworks like **Next.js** and **React**, most sites rely heavily on **query-based search** methods to retrieve and filter data. While effective, this approach often results in **complex routing logic**, **confusing parameter handling**, and inconsistent behaviors — especially when working with nested routes or dynamic components.
+
+To address these challenges, we are excited to introduce a brand-new tool:
+
+### 🚀 **Acador** — a smarter way to connect users with data
+
+---
+
+### ⚙️ **What Is Acador?**
+
+**Acador** is a custom-built package that **eliminates the need for query-based data retrieval** in frontend projects. Instead of filtering data through traditional query strings (`?key=value`), Acador connects **deep server-side logic or static data** directly to frontend components — without manual parsing or URL complexity.
+
+Think of it as **intelligent address redirection**, where the data comes to the user *automatically* without explicitly being asked for through a query.
+
+---
+
+### 🧩 **Why Use Acador?**
+
+#### ❌ No More Query Overhead
+
+* Stop managing endless query strings
+    
+* Avoid unnecessary re-renders and complex client-side filters
+    
+
+#### 🔄 Direct Data Resolution
+
+* Acador intelligently routes data from **deep static structures or API layers**
+    
+* Users receive the relevant data as if it was locally available — **no fetch, no query**
+    
+
+#### 🛠️ Simplified Routing in Next.js
+
+* Especially helpful with **App Router** in the latest Next.js versions
+    
+* Keeps routing logic **clean**, **predictable**, and **component-friendly**
+    
+
+#### 🔄 "Cancel"-Based Data Redirect
+
+* When Acador detects unnecessary or outdated parameters, it **automatically cancels and redirects** to relevant data states
+    
+* Enhances UX and minimizes broken routes or missing props
+    
+
+---
+
+### 📦 Use Cases
+
+* Replacing messy query-based filtering in dashboards or admin panels
+    
+* Static site generation (SSG) with complex content structures
+    
+* Deep integration with headless CMS or large JSON datasets
+    
+* Dynamic routing where data flows must remain reactive but predictable
+    
+
+---
+
+### 📚 **Learn More and Try It**
+
+📄 Full documentation and installation guide is available at:  
+👉 https://ghadaam.ir/Package/g-aka
