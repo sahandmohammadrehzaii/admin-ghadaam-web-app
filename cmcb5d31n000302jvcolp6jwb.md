@@ -202,9 +202,3 @@ It will come back as:
 So to every user who created a robot in ASCII, every artist who formed a tree with slashes and pipes, and every curious explorer who asked “what else can I make?” — **we heard you**.
 
 And we’re building what you deserve.
-
----
-
-✅ *Stay tuned.*  
-🎨 *Stay expressive.*  
-🔧 *We’re rebuild***Time: ~10 minutes***ing — for the future of creativity.*
