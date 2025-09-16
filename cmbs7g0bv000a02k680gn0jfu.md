@@ -9,7 +9,7 @@ cover: https://res.cloudinary.com/dpp5n1yz8/image/upload/v1758059062/ghadaam/cov
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749661740869/78feaf5e-543e-4745-8bea-7f4ac3f082ac.png)
 
-## 4444⚠️ Automated Ethical Compliance & Detection System
+## ⚠️ Automated Ethical Compliance & Detection System
 
 **Ensuring Security, Accountability, and Ethical Use**
 
@@ -78,9 +78,3 @@ It is important to note that:
 - Our long-term hope is that the detection rate will approach zero, meaning users are operating ethically, and this system can eventually be disabled or minimized.
 
 ## 🤝 A Message to Our Users
-
-We believe in a community of **creators, developers, artists, and innovators** who value fairness, respect, and collaboration. This system is not a sign of distrust — it's a safeguard to **protect those values**.
-
-By complying with our platform's rules, you're contributing to a healthier digital space for everyone. If you ever have questions about what is or isn't allowed, you’re encouraged to **review our Terms of Service** or **contact our Trust & Safety team**.
-
-Thank you for being a responsible part of our community.
