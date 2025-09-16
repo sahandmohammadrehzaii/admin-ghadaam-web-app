@@ -9,7 +9,7 @@ cover: https://res.cloudinary.com/dpp5n1yz8/image/upload/v1758059062/ghadaam/cov
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749661740869/78feaf5e-543e-4745-8bea-7f4ac3f082ac.png)
 
-## ⚠️ Automated Ethical Compliance & Detection System
+## 4444⚠️ Automated Ethical Compliance & Detection System
 
 **Ensuring Security, Accountability, and Ethical Use**
 
