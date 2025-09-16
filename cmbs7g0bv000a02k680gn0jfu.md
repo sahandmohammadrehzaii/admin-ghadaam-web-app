@@ -3,13 +3,13 @@ title: "Categorizing users based on account access"
 datePublished: Wed Jun 11 2025 17:09:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmbs7g0bv000a02k680gn0jfu
 slug: categorizing-users-based-on-account-access
-tags: ffffvdrgfggdfgdfgdfgdfg
+cover: https://res.cloudinary.com/dpp5n1yz8/image/upload/v1758059062/ghadaam/covers/solxbeiya0liugwqm5oz.jpg
 
 ---
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749661740869/78feaf5e-543e-4745-8bea-7f4ac3f082ac.png)
 
-## 4444⚠️ Automated Ethical Compliance & Detection System
+## ⚠️ Automated Ethical Compliance & Detection System
 
 **Ensuring Security, Accountability, and Ethical Use**
 
