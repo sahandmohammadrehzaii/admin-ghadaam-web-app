@@ -3,7 +3,6 @@ title: "Categorizing users based on account access"
 datePublished: Wed Jun 11 2025 17:09:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmbs7g0bv000a02k680gn0jfu
 slug: categorizing-users-based-on-account-access
-cover: https://res.cloudinary.com/dpp5n1yz8/image/upload/v1758059062/ghadaam/covers/solxbeiya0liugwqm5oz.jpg
 
 ---
 
